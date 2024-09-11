@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center py-[25vh] relative">
       <div>
-        <Link href="https://x.com/abhishek_m_dev" target="_blank">
+        <Link href="https://github.com/abhi12299/color-match" target="_blank">
           <FaGithub className="absolute top-4 right-4" size={24} />
         </Link>
       </div>
